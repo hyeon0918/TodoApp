@@ -20,9 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -42,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "http://hyeon0918.github.io/todo"
+  "homepage": "http://hyeon0918.github.io/todo"
 }
